@@ -2,6 +2,6 @@ This is the first file I am creating inside the Github.
 a=10
 b=100
 c=200
-d=1
+d=35
 result=a+b+c+d
 Hello I am cross checking the status command
